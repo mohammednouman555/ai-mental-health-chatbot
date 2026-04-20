@@ -1,0 +1,14 @@
+# Virtual environments
+CleanRepo/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / binary files
+*.dll
+*.so
+*.dylib
